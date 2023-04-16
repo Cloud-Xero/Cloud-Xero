@@ -1,4 +1,4 @@
-## 1. docs
+## 🐼 Docs
 Discover my world of code in the 'docs' repository, featuring my personal introduction and a guide to my other public repositories.
 
 | Repository     | Description                                                                 |
@@ -11,7 +11,7 @@ Discover my world of code in the 'docs' repository, featuring my personal introd
 | docs           | My personal introduction and index of all repositories 📖                    |
 <br>
 
-## 2. Skills
+## 🐻 Skills
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,html,css,vite,threejs,supabase)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/trpc.svg" width="5%" alt="tRPC">
@@ -26,3 +26,6 @@ Discover my world of code in the 'docs' repository, featuring my personal introd
 
 ### Bloackchain
 [![Bloackchain](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-xero)](https://github.com/anuraghazra/github-readme-stats) -->
