@@ -3,12 +3,14 @@ Discover my world of code in this repository, featuring my personal introduction
 
 | Repository     | Description                                                                 |
 | -------------- | --------------------------------------------------------------------------- |
+| [Cloud-Xero](https://github.com/Cloud-Xero/Cloud-Xero)     | My personal introduction and index of all repositories 📖                   |
 | [sandbox](https://github.com/Cloud-Xero/sandbox)           | A playground for learning and experimentation 🏖️                            |
-| script-odyssey | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ |
-| code-odyssey   | A monorepo for managing personal development projects in various languages 🌐 |
+| my-hacklog | A blog to share and document my learnings and discoveries in the ever-evolving world of technology 🚀 |
 | [my-setting](https://github.com/Cloud-Xero/my-setting)     | A collection of my configuration files and settings ⚙️                       |
 | my-template    | A compilation of reusable templates and boilerplates 📚                        |
-| [Cloud-Xero](https://github.com/Cloud-Xero/Cloud-Xero)     | My personal introduction and index of all repositories 📖                    |
+| script-odyssey | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ |
+| code-odyssey   | A monorepo for managing personal development projects in various languages 🌐 |
+
 <br>
 
 ## 🐻 Skills
