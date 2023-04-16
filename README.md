@@ -1,14 +1,14 @@
 ## 🐼 Public Repositories
-Discover my world of code in the 'docs' repository, featuring my personal introduction and a guide to my other public repositories.
+Discover my world of code in this repository, featuring my personal introduction and a guide to my other public repositories.
 
 | Repository     | Description                                                                 |
 | -------------- | --------------------------------------------------------------------------- |
-| sandbox        | A playground for learning and experimentation 🏖️                            |
+| [sandbox](https://github.com/Cloud-Xero/sandbox)           | A playground for learning and experimentation 🏖️                            |
 | script-odyssey | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ |
 | code-odyssey   | A monorepo for managing personal development projects in various languages 🌐 |
-| my-setting     | A collection of my configuration files and settings ⚙️                       |
+| [my-setting](https://github.com/Cloud-Xero/my-setting)     | A collection of my configuration files and settings ⚙️                       |
 | my-template    | A compilation of reusable templates and boilerplates 📚                        |
-| Cloud-Xero     | My personal introduction and index of all repositories 📖                    |
+| [Cloud-Xero](https://github.com/Cloud-Xero/Cloud-Xero)     | My personal introduction and index of all repositories 📖                    |
 <br>
 
 ## 🐻 Skills
