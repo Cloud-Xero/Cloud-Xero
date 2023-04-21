@@ -15,7 +15,7 @@ Discover my world of code in this repository, featuring my personal introduction
 
 ## 🐻 Skills
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,html,css,vite,threejs,supabase)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,vite,threejs,supabase)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/trpc.svg" width="5%" alt="tRPC">
 
 ### Backend
