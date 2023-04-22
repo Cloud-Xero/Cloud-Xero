@@ -8,7 +8,7 @@ Discover my world of code in this repository, featuring my personal introduction
 | my-hacklog | A blog to share and document my learnings and discoveries in the ever-evolving world of technology 🚀 |
 | [my-setting](https://github.com/Cloud-Xero/my-setting)     | A collection of my configuration files and settings ⚙️                       |
 | my-template    | A compilation of reusable templates and boilerplates 📚                        |
-| script-odyssey | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ |
+| [script-odyssey](https://github.com/Cloud-Xero/script-odyssey) | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ |
 | code-odyssey   | A monorepo for managing personal development projects in various languages 🌐 |
 
 <br>
