@@ -5,7 +5,7 @@ Discover my world of code in this repository, featuring my personal introduction
 | -------------- | --------------------------------------------------------------------------- |
 | [Cloud-Xero](https://github.com/Cloud-Xero/Cloud-Xero)     | My personal introduction and index of all repositories 📖                   |
 | [sandbox](https://github.com/Cloud-Xero/sandbox)           | A playground for learning and experimentation 🏖️                            |
-| my-hacklog | A blog to share and document my learnings and discoveries in the ever-evolving world of technology 🚀 |
+| [my-hacklog](https://github.com/Cloud-Xero/my-hacklog) | A blog to share and document my learnings and discoveries in the ever-evolving world of technology 🚀 |
 | [my-setting](https://github.com/Cloud-Xero/my-setting)     | A collection of my configuration files and settings ⚙️                       |
 | my-template    | A compilation of reusable templates and boilerplates 📚                        |
 | [script-odyssey](https://github.com/Cloud-Xero/script-odyssey) | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ |
