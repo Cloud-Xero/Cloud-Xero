@@ -26,8 +26,8 @@ Discover my world of code in this repository, featuring my personal introduction
 <img src="https://www.svgrepo.com/show/374122/terraform.svg" width="48" height="48" alt="Terraform">
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/turborepo.svg" width="48" height="48" alt="Turborepo">
 
-### Bloackchain
-[![Bloackchain](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
+### Blockchain
+[![Blockchain](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-xero)](https://github.com/anuraghazra/github-readme-stats) -->
