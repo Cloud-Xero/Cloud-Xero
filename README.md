@@ -1,98 +1,82 @@
 <div align="center">
 
-# 👋 Welcome to Cloud-Xero's Digital Space
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=220&section=header&text=Cloud-Xero&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Build%20in%20the%20cloud.%20Automate%20everything.&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+based+in+Tokyo+%F0%9F%97%BC;Serverless+%26+Cloud-Native+Builder+%E2%98%81%EF%B8%8F;Automating+workflows+with+AI+agents+%F0%9F%A4%96;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cloud-xero&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/cloud-xero?label=Followers&style=social" alt="followers" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=cloud-xero&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/cloud-xero?label=Followers&style=flat&color=a855f7" alt="followers" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Tokyo%2C%20Japan-0ea5e9" alt="location" />
 </p>
 
 </div>
 
----
+## 🌌 About Me
+
+- 🗼 Full-stack developer based in **Tokyo, Japan**
+- ☁️ Into **serverless architectures** and cloud-native development
+- 🤖 Building **AI-powered dev workflows** with Claude Code plugins
+- 🧠 Obsidian enthusiast — crafting plugins for my second brain
+- 🎯 Open to collaboration on exciting projects
+
+<br/>
+
+## 🚀 Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Cloud-Xero/ai-plugins">🤖 ai-plugins</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/Claude_Code-Plugins-D97757?style=flat-square" alt="Claude Code" /></p>
+      <p align="center">A personal catalog of Claude Code plugins & skills.<br/>My AI-powered dev workflow — versioned and installable.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Cloud-Xero/obsidian-background-slideshow">🖼️ obsidian-background-slideshow</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" /></p>
+      <p align="center">An Obsidian plugin that turns the vault background<br/>into a slideshow with smooth fade transitions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Cloud-Xero/my-setting">⚙️ my-setting</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/dotfiles-Config-0EA5E9?style=flat-square" alt="dotfiles" /></p>
+      <p align="center">My configuration files and environment settings.<br/>Reproducible setup, everywhere.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/Cloud-Xero/sandbox">🏖️ sandbox</a></h3>
+      <p align="center"><img src="https://img.shields.io/badge/TypeScript-Playground-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+      <p align="center">A playground for learning and experimentation.<br/>Where ideas get their first commit.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cloud-xero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="github stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=cloud-xero&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cloud-Xero&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=A855F7&point=0EA5E9&area=true" width="95%" alt="activity graph" />
+</div>
+
+<br/>
 
 <div align="center">
 
-### 🚀 About Me
-
-*Building innovative solutions and exploring the endless possibilities of technology*
-
-💼 Passionate Full Stack Developer
-🌱 Currently diving deep into Modern Web Technologies
-⚡ Love crafting elegant code and solving complex problems
-🎯 Open to collaboration on exciting projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</picture>
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloud-xero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-xero&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-xero&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
-</div>
-
----
-
-## 🐼 Featured Repositories
-
-<div align="center">
-
-| Repository     | Description                                                                 |
-| -------------- | --------------------------------------------------------------------------- |
-| [📖 Cloud-Xero](https://github.com/Cloud-Xero/Cloud-Xero)     | My personal introduction and index of all repositories                   |
-| [🏖️ sandbox](https://github.com/Cloud-Xero/sandbox)           | A playground for learning and experimentation                            |
-| [⚙️ my-setting](https://github.com/Cloud-Xero/my-setting)     | A collection of my configuration files and settings                       |
-| [📚 my-template](https://github.com/Cloud-Xero/my-template)    | A compilation of reusable templates and boilerplates                        |
-
-</div>
-
-<!-- | [my-hacklog](https://github.com/Cloud-Xero/my-hacklog) | A blog to share and document my learnings and discoveries in the ever-evolving world of technology 🚀 | -->
-<!-- | [script-odyssey](https://github.com/Cloud-Xero/script-odyssey) | A monorepo for managing personal JavaScript projects, powered by Turborepo ⚡ | -->
-<!-- | [code-odyssey](https://github.com/Cloud-Xero/code-odyssey)   | A monorepo for managing personal development projects in various languages 🌐 | -->
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🎨 Frontend Development
-[![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,astro,tailwind,vite,threejs)](https://skillicons.dev)
-
-`TypeScript` `React` `Next.js` `Astro` `Tailwind CSS` `Vite` `Three.js`
-
-### ⚙️ Backend Development
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,ts,nestjs,jest,webpack,prisma,postgres)](https://skillicons.dev)
-
-`Node.js` `Express` `TypeScript` `NestJS` `Jest` `Webpack` `Prisma` `PostgreSQL`
-
-### ☁️ DevOps & Cloud
-[![DevOps](https://skillicons.dev/icons?i=gcp,githubactions,docker)](https://skillicons.dev)
-
-`Google Cloud Platform` `GitHub Actions` `Docker`
-
-</div>
-
-<!-- <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/trpc.svg" width="5%" alt="tRPC"> -->
-<!-- <img src="https://www.svgrepo.com/show/374122/terraform.svg" width="48" height="48" alt="Terraform"> -->
-<!-- <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/turborepo.svg" width="48" height="48" alt="Turborepo"> -->
-
-<!--
-### Blockchain
-[![Blockchain](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-xero)](https://github.com/anuraghazra/github-readme-stats) -->
-
----
+<br/>
 
 <div align="center">
 
@@ -100,10 +84,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cloud--Xero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cloud-Xero)
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
----
-
-**⭐ From [Cloud-Xero](https://github.com/Cloud-Xero) with ❤️**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
