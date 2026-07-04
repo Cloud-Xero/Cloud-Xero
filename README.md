@@ -16,13 +16,38 @@
 
 - 🗼 Full-stack developer based in **Tokyo, Japan**
 - ☁️ Into **serverless architectures** and cloud-native development
+- 🛠️ Shipping **personal products** — goal management, tech media, and parenting tools
 - 🤖 Building **AI-powered dev workflows** with Claude Code plugins
 - 🧠 Obsidian enthusiast — crafting plugins for my second brain
 - 🎯 Open to collaboration on exciting projects
 
 <br/>
 
-## 🚀 Featured Repositories
+## 🚀 Products
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://abstria.app/">🎯 Abstria</a></h3>
+      <p align="center"><a href="https://abstria.app/"><img src="https://img.shields.io/badge/Live-abstria.app-0EA5E9?style=flat-square" alt="abstria.app" /></a></p>
+      <p align="center">A goal management app that bridges abstract goals and concrete action — through a year / month / week / day hierarchy.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://apsis-dx.com/">📰 Apsis</a></h3>
+      <p align="center"><a href="https://apsis-dx.com/"><img src="https://img.shields.io/badge/Live-apsis--dx.com-6366F1?style=flat-square" alt="apsis-dx.com" /></a></p>
+      <p align="center">A next-gen tech media exploring the intersection of AI, DX, and business logic.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://piyorepo.com/">🐣 PiyoRepo</a></h3>
+      <p align="center"><a href="https://piyorepo.com/"><img src="https://img.shields.io/badge/Live-piyorepo.com-A855F7?style=flat-square" alt="piyorepo.com" /></a></p>
+      <p align="center">Turns childcare logs into cute shareable cards for SNS — no login required, no data stored.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📦 Featured Repositories
 
 <table>
   <tr>
