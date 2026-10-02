@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud-Xero — Build in the cloud. Automate the everyday.</title>
+  <desc id="desc">An editorial masthead in ivory and midnight blue, with an orange orbital illustration. Full-stack developer, Tokyo, Japan.</desc>
+  <rect width="1200" height="420" rx="8" fill="#111F2C"/>
+  <path d="M48 64H1152M48 352H1152" stroke="#42505B"/>
+  <g fill="#C0C7C8" font-family="monospace" font-size="13" letter-spacing="2">
+    <text x="48" y="40">INDEPENDENT DEVELOPER</text>
+    <text x="1152" y="40" text-anchor="end">TOKYO, JAPAN / 35.68° N</text>
+    <text x="48" y="386">PRODUCTS / CLOUD / AUTOMATION</text>
+    <text x="1152" y="386" text-anchor="end">IDEAS → EVERYDAY TOOLS</text>
+  </g>
+  <text x="44" y="173" fill="#F5F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-4">Cloud-Xero<tspan fill="#FF9365">.</tspan></text>
+  <g fill="#F5F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="32">
+    <text x="48" y="246">Build in the cloud.</text>
+    <text x="48" y="289">Automate the everyday.</text>
+  </g>
+  <g transform="translate(951 208)">
+    <circle r="112" stroke="#42505B"/>
+    <circle r="76" stroke="#42505B"/>
+    <path d="M-145 0H145M0-130V130" stroke="#42505B" stroke-dasharray="3 7"/>
+    <ellipse rx="151" ry="49" transform="rotate(-35)" stroke="#FF9365" stroke-width="2"/>
+    <circle r="34" fill="#F5F0E6"/>
+    <circle cx="18" cy="-12" r="34" fill="#111F2C"/>
+    <circle cx="117" cy="-84" r="8" fill="#FF9365"/>
+    <circle cx="-77" cy="81" r="4" fill="#F5F0E6"/>
+  </g>
+</svg>

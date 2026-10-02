@@ -1,116 +1,99 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=220&section=header&text=Cloud-Xero&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Build%20in%20the%20cloud.%20Automate%20everything.&descSize=18&descAlignY=58" width="100%" alt="header" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+based+in+Tokyo+%F0%9F%97%BC;Serverless+%26+Cloud-Native+Builder+%E2%98%81%EF%B8%8F;Automating+workflows+with+AI+agents+%F0%9F%A4%96;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=cloud-xero&label=Profile%20Views&color=6366f1&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/cloud-xero?label=Followers&style=flat&color=a855f7" alt="followers" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Tokyo%2C%20Japan-0ea5e9" alt="location" />
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Cloud-Xero — Build in the cloud. Automate the everyday. Full-stack developer in Tokyo, Japan." width="100%" />
 </p>
 
-</div>
-
-## 🌌 About Me
-
-- 🗼 Full-stack developer based in **Tokyo, Japan**
-- ☁️ Into **serverless architectures** and cloud-native development
-- 🛠️ Shipping **personal products** — goal management, tech media, and parenting tools
-- 🤖 Building **AI-powered dev workflows** with Claude Code plugins
-- 🧠 Obsidian enthusiast — crafting plugins for my second brain
-- 🎯 Open to collaboration on exciting projects
+<p align="center">
+  <a href="#01--about">About</a> &nbsp; / &nbsp;
+  <a href="#02--selected-products">Products</a> &nbsp; / &nbsp;
+  <a href="#03--core-stack">Core Stack</a> &nbsp; / &nbsp;
+  <a href="#04--open-source">Open Source</a>
+</p>
 
 <br/>
 
-## 🚀 Products
+## 01 / About
+
+### Small ideas. Useful products.
+
+I'm a full-stack developer based in **Tokyo, Japan**, building personal products and tools that make everyday work easier. I connect long-term goals to daily actions, explore AI and digital transformation, and turn parenting moments into something worth sharing.
+
+My focus is **cloud-native development**, **AI-powered workflows**, and **knowledge tools** — from serverless applications to reusable development skills and Obsidian plugins.
+
+<br/>
+
+## 02 / Selected Products
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center"><a href="https://abstria.app/">🎯 Abstria</a></h3>
-      <p align="center"><a href="https://abstria.app/"><img src="https://img.shields.io/badge/Live-abstria.app-0EA5E9?style=flat-square" alt="abstria.app" /></a></p>
-      <p align="center">A goal management app that bridges abstract goals and concrete action — through a year / month / week / day hierarchy.</p>
+      <sub>01 &nbsp; / &nbsp; GOAL MANAGEMENT</sub>
+      <h3><a href="https://abstria.app/">Abstria ↗</a></h3>
+      <p><strong>Big goals, daily steps.</strong></p>
+      <p>Connect long-term goals to concrete action through a year / month / week / day hierarchy.</p>
+      <br/>
+      <a href="https://abstria.app/">Explore Abstria →</a>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center"><a href="https://apsis-dx.com/">📰 Apsis</a></h3>
-      <p align="center"><a href="https://apsis-dx.com/"><img src="https://img.shields.io/badge/Live-apsis--dx.com-6366F1?style=flat-square" alt="apsis-dx.com" /></a></p>
-      <p align="center">A next-gen tech media exploring the intersection of AI, DX, and business logic.</p>
+      <sub>02 &nbsp; / &nbsp; TECH MEDIA</sub>
+      <h3><a href="https://apsis-dx.com/">Apsis ↗</a></h3>
+      <p><strong>Technology in context.</strong></p>
+      <p>Explore the intersection of AI, digital transformation, and business through tech media.</p>
+      <br/>
+      <a href="https://apsis-dx.com/">Read Apsis →</a>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center"><a href="https://piyorepo.com/">🐣 PiyoRepo</a></h3>
-      <p align="center"><a href="https://piyorepo.com/"><img src="https://img.shields.io/badge/Live-piyorepo.com-A855F7?style=flat-square" alt="piyorepo.com" /></a></p>
-      <p align="center">Turns childcare logs into cute shareable cards for SNS — no login required, no data stored.</p>
+      <sub>03 &nbsp; / &nbsp; PARENTING</sub>
+      <h3><a href="https://piyorepo.com/">PiyoRepo ↗</a></h3>
+      <p><strong>Little moments, shared.</strong></p>
+      <p>Turn everyday childcare logs into cards you can share on social media.</p>
+      <br/>
+      <a href="https://piyorepo.com/">Try PiyoRepo →</a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 📦 Featured Repositories
+## 03 / Core Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Cloud-Xero/ai-plugins">🤖 ai-plugins</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/Claude_Code-Plugins-D97757?style=flat-square" alt="Claude Code" /></p>
-      <p align="center">A personal catalog of Claude Code plugins & skills.<br/>My AI-powered dev workflow — versioned and installable.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Cloud-Xero/obsidian-background-slideshow">🖼️ obsidian-background-slideshow</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" /></p>
-      <p align="center">An Obsidian plugin that turns the vault background<br/>into a slideshow with smooth fade transitions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Cloud-Xero/my-setting">⚙️ my-setting</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/dotfiles-Config-0EA5E9?style=flat-square" alt="dotfiles" /></p>
-      <p align="center">My configuration files and environment settings.<br/>Reproducible setup, everywhere.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Cloud-Xero/sandbox">🏖️ sandbox</a></h3>
-      <p align="center"><img src="https://img.shields.io/badge/TypeScript-Playground-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
-      <p align="center">A playground for learning and experimentation.<br/>Where ideas get their first commit.</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111F2C?style=for-the-badge&amp;logo=typescript&amp;logoColor=FF9365" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111F2C?style=for-the-badge&amp;logo=react&amp;logoColor=FF9365" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111F2C?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=FF9365" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111F2C?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=FF9365" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Cloudflare-111F2C?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=FF9365" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Supabase-111F2C?style=for-the-badge&amp;logo=supabase&amp;logoColor=FF9365" alt="Supabase" />
+</p>
 
 <br/>
 
-## 📊 GitHub Stats
+## 04 / Open Source
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cloud-xero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="github stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=cloud-xero&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
+**[ai-plugins ↗](https://github.com/Cloud-Xero/ai-plugins)** &nbsp; <sub>AI WORKFLOWS</sub><br/>
+A versioned, installable collection of Claude Code plugins and skills.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cloud-Xero&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=A855F7&point=0EA5E9&area=true" width="95%" alt="activity graph" />
-</div>
+**[obsidian-background-slideshow ↗](https://github.com/Cloud-Xero/obsidian-background-slideshow)** &nbsp; <sub>KNOWLEDGE TOOLS</sub><br/>
+Background slideshows with smooth fade transitions for Obsidian.
+
+**[my-setting ↗](https://github.com/Cloud-Xero/my-setting)** &nbsp; <sub>DEVELOPER ENVIRONMENT</sub><br/>
+Configuration files for a reproducible development setup.
 
 <br/>
 
-<div align="center">
+## 05 / Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/Cloud-Xero/Cloud-Xero/output/github-contribution-grid-snake.svg" alt="Animated snake tracing my GitHub contribution grid" width="100%" />
 </picture>
-
-</div>
 
 <br/>
 
-<div align="center">
+---
 
-### 💬 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Cloud--Xero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cloud-Xero)
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+<p align="center">
+  <strong>Let's build something useful.</strong><br/>
+  <sub>Open to collaboration on web products, developer tools, and workflow automation.</sub><br/><br/>
+  <a href="https://github.com/Cloud-Xero">GitHub ↗</a> &nbsp; · &nbsp; Tokyo, Japan
+</p>
