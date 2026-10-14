@@ -1,27 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Cloud-Xero — Build in the cloud. Automate the everyday.</title>
-  <desc id="desc">An editorial masthead in ivory and midnight blue, with an orange orbital illustration. Full-stack developer, Tokyo, Japan.</desc>
-  <rect width="1200" height="420" rx="8" fill="#111F2C"/>
-  <path d="M48 64H1152M48 352H1152" stroke="#42505B"/>
-  <g fill="#C0C7C8" font-family="monospace" font-size="13" letter-spacing="2">
-    <text x="48" y="40">INDEPENDENT DEVELOPER</text>
-    <text x="1152" y="40" text-anchor="end">TOKYO, JAPAN / 35.68° N</text>
-    <text x="48" y="386">PRODUCTS / CLOUD / AUTOMATION</text>
-    <text x="1152" y="386" text-anchor="end">IDEAS → EVERYDAY TOOLS</text>
+  <title id="title">Hiroki Komamiya — The engineer for teams that don’t have one.</title>
+  <desc id="desc">A page set like a technical book: a marginalia column with the eyebrow Independent Software Engineer and Tokyo, Japan, and a text column with the headline and lead. Web apps, workflow automation, and development foundations, from requirements to operations, for companies with few or no engineers.</desc>
+  <rect width="1200" height="420" fill="#F7F7F4"/>
+
+  <!-- Running head -->
+  <text x="48" y="56" fill="#181817" font-family="'STIX Two Text', Georgia, 'Times New Roman', serif" font-size="21">Hiroki Komamiya</text>
+  <g fill="#6B6B67" font-family="'STIX Two Text', Georgia, 'Times New Roman', serif" font-size="12" font-weight="500" letter-spacing="1.2">
+    <text x="340" y="55">CLOUD-XERO</text>
+    <text x="1152" y="55" text-anchor="end">KOMAMIYA.DEV</text>
   </g>
-  <text x="44" y="173" fill="#F5F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-4">Cloud-Xero<tspan fill="#FF9365">.</tspan></text>
-  <g fill="#F5F0E6" font-family="Georgia, 'Times New Roman', serif" font-size="32">
-    <text x="48" y="246">Build in the cloud.</text>
-    <text x="48" y="289">Automate the everyday.</text>
+  <path d="M48 80.5H1152" stroke="#181817"/>
+
+  <!-- Marginalia -->
+  <rect x="48" y="128" width="2" height="24" fill="#C4301F"/>
+  <text x="60" y="146" fill="#181817" font-family="'STIX Two Text', Georgia, 'Times New Roman', serif" font-size="12" font-weight="500" letter-spacing="1.2">INDEPENDENT SOFTWARE ENGINEER</text>
+  <text x="60" y="170" fill="#6B6B67" font-family="'STIX Two Text', Georgia, 'Times New Roman', serif" font-size="14">Tokyo, Japan</text>
+
+  <!-- Headline -->
+  <g fill="#181817" font-family="'STIX Two Text', Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="-1.2">
+    <text x="336" y="146">The engineer for teams</text>
+    <text x="336" y="210">that <tspan fill="#C4301F" font-style="italic">don’t</tspan> have one.</text>
   </g>
-  <g transform="translate(951 208)">
-    <circle r="112" stroke="#42505B"/>
-    <circle r="76" stroke="#42505B"/>
-    <path d="M-145 0H145M0-130V130" stroke="#42505B" stroke-dasharray="3 7"/>
-    <ellipse rx="151" ry="49" transform="rotate(-35)" stroke="#FF9365" stroke-width="2"/>
-    <circle r="34" fill="#F5F0E6"/>
-    <circle cx="18" cy="-12" r="34" fill="#111F2C"/>
-    <circle cx="117" cy="-84" r="8" fill="#FF9365"/>
-    <circle cx="-77" cy="81" r="4" fill="#F5F0E6"/>
+
+  <!-- Lead -->
+  <g fill="#181817" font-family="'STIX Two Text', Georgia, 'Times New Roman', serif" font-size="21">
+    <text x="340" y="268">Web apps, workflow automation, and development foundations —</text>
+    <text x="340" y="298">from requirements to operations, for companies with few or no engineers.</text>
+  </g>
+
+  <!-- Colophon -->
+  <path d="M48 352.5H1152" stroke="#181817"/>
+  <g font-family="'STIX Two Text', Georgia, 'Times New Roman', serif">
+    <text x="48" y="386" fill="#6B6B67" font-size="12" font-weight="500" letter-spacing="1.2">COLOPHON</text>
+    <text x="340" y="386" fill="#181817" font-size="17">Available for selected projects</text>
+    <text x="1152" y="386" fill="#6B6B67" font-size="14" text-anchor="end">Web · Automation · Foundations · Advisory</text>
   </g>
 </svg>
