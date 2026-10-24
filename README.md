@@ -88,7 +88,7 @@ A catalog of Claude Code plugins for business strategy, marketing, and client de
 
 ## § 5 &nbsp; Contributions
 
-**5.1 &nbsp; [EmDash Forms plugin ↗](https://github.com/emdash-cms/emdash/pull/4078)** &nbsp; <sub>IN REVIEW · emdash-cms/emdash#4078</sub><br/>
+**5.1 &nbsp; [EmDash Forms plugin ↗](https://github.com/emdash-cms/emdash/pull/4078)** &nbsp; <sub>MERGED · emdash-cms/emdash#4078</sub><br/>
 Fixed whitespace leaking into empty textareas in EmDash’s Forms plugin, which let blank required fields pass browser validation.<br/>
 <sub><i>Astro, TypeScript, Vitest</i></sub>
 
